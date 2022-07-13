@@ -14,6 +14,32 @@ public class Some {
             System.out.println(123);
         }
     }
+    
+    public void smell1() {
+        while (true) {
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+        }
+    }
+
+
+    
+    public void smell2() {
+        while (true) {
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+            System.out.println(123);
+        }
+    }
 
 
     private static int test() {
