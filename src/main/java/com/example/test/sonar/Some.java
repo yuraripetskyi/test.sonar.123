@@ -64,6 +64,28 @@ public class Some {
        return 1;
     }
     
+     private static int test124() {
+       try {
+           while (true) {
+               BigDecimal bigDecimal = new BigDecimal(2);
+           }
+       } catch (Throwable throwable) {
+           System.out.println("123");
+       }
+       return 1;
+    }
+    
+    private static int test123() {
+       try {
+           while (true) {
+               BigDecimal bigDecimal = new BigDecimal(2);
+           }
+       } catch (Throwable throwable) {
+           System.out.println("123");
+       }
+       return 1;
+    }
+    
     private static int test2() {
        try {
            while (true) {
